@@ -1,0 +1,7 @@
+{
+  "name": "Sketch Tutor",
+  "description": "A clean, mobile-first drawing tutor app that breaks down any reference image into structured, beginner-friendly step-by-step sketching guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
